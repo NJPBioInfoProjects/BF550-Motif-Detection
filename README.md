@@ -37,7 +37,6 @@ This repository contains the **Motif Finding Project** for the BF550 Bioinformat
 ## Notes
 - The project follows a structured format where functions should be implemented in sequence.
 - Only built-in Python libraries are used.
-- If collaborating, each student submits their own assignment.
 
 ## License
 This project is for educational purposes under the BF550 course guidelines.
