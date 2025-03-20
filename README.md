@@ -13,16 +13,16 @@ This repository contains the **Motif Finding Project** for the BF550 Bioinformat
 
 ## Project Structure
 - `Project_1_Motif_Finding_petrunich.ipynb` – The Jupyter Notebook containing the implementation, explanations, and code.
-- `project_1_FirstName_LastName.py` – Expected submission format for final code packaging (as per project guidelines).
+- `project_1_Nicolas_Petrunich.py` – Expected submission format for final code packaging (as per project guidelines).
 
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/BF550-Motif-Detection.git
+   git clone https://github.com/NJPBioInfoProjects/BF550-Motif-Detection.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd motif-finding
+   cd BF550-Motif-Detection
    ```
 3. Open the notebook:
    ```sh
